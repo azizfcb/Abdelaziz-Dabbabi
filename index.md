@@ -1,4 +1,4 @@
-## Welcome to my personal pagex
+## Welcome to my personal page
 
 Abdelaziz, a Tunisian software guy who:
 - had been doing IT/WEB stuff for more than 6 years
@@ -9,6 +9,10 @@ Abdelaziz, a Tunisian software guy who:
 
 ### Personal Projects
 ```markdown
+# azaytek 
+```
+my personal blog (Hosted in Blogger and would be moved to ghost very soon), where I publish my thoughts 💡 regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)(https://www.npmjs.com/package/azifpl)
+```markdown
 # azifpl 
 ```
 A wrapper around the Fantasy Premier League Platform, implementing multiple functionnalities from getting gameweek score, to players prices, changing teams names, leagues history, set captain and more ⚽ ⚽. Check it out [azifpl github](https://github.com/azizfcb/azifpl) or [azifpl npm](https://www.npmjs.com/package/azifpl)
@@ -17,43 +21,14 @@ A wrapper around the Fantasy Premier League Platform, implementing multiple func
 ```
 This is a helpful nodejs script that combines Github & Slack APIs to offer you a command line tool to automate multiple Github & Slack administrative tasks. Available [here](https://github.com/azizfcb/GithubSlack-Automator)
 ```markdown
-# Header 3
+# aziscore
 ```
+This is a chrome extension for flashscore users. It extends the website and offer multiple filtering criterias such as matching goals sum is bigger/lower than a threeshold, matching that the difference between goals scored is bigger/lower than threeshold, matching that the 1HT score is equal to 2HT score and many more ⚽ ... Available [here](https://github.com/azizfcb/aziscore)
 ```markdown
-# Header 4
+# azicolis-checker
 ```
-```markdown
-# Header 5
-```
-```markdown
-# Header 6
-```
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azizfcb/personal-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This is a nodejs/puppeteer helper that bulk search and takes automated screenshots of parcels being shipped by Tunisian Post ... Available [here](https://github.com/azizfcb/azicolis-checker)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To reach out, I'm all over the intnet ? shout out an email at [dabebi.abdelaziz@gmail.com](mailto:dabebi.abdelaziz@gmail.com), ping me on [Facebook](https://www.facebook.com/fcb.simao) or [Twitter](https://twitter.com/3azzouzana) or add me on [LinkedIn](https://www.linkedin.com/in/abdelazizdabebi/)
