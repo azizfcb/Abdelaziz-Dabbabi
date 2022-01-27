@@ -4,8 +4,8 @@ Abdelaziz, a Tunisian software guy who:
 - has been doing IT/WEB stuff for more than 6 years
 - worked in startups, large corporations, as freelancer and as employee.
 - is a fullstack Nodejs/PHP Linux developer who wears the DevOps hat so frequently that there's no space here to list all the techs, tools and frameworks that he worked with.
-- is highly productive when served a big cup of coffee and let alone. 
-- is in love with Linux, Docker, PHP & Nodejs ecosystem and uses puppeteer all the time.
+- is highly productive when served a big cup of coffee ☕ and let alone. 
+- is in ❤️ with Linux, Docker, PHP & Nodejs ecosystem and uses puppeteer all the time.
 
 ### Personal Projects
 ```markdown
