@@ -3,16 +3,18 @@
 Abdelaziz, a Tunisian software guy who:
 - had been doing IT/WEB stuff for more than 6 years
 - worked in startups, large corporations, as freelancer and as employee.
-- is a fullstack Nodejs/PHP Linux developer who wears the DevOps so frequently that there's no space here to list all the techs, tools, framework, that he worked with.
+- is a fullstack Nodejs/PHP Linux developer who wears the DevOps so frequently that there's no space here to list all the techs, tools and frameworks, that he worked with.
 - is highly productive when served a big cup of coffee and let alone. 
-- is in love with Linux, Docker, PHP and Nodejs ecosystem and uses puppeteer all the time.
+- is in love with Linux, Docker, PHP & Nodejs ecosystem and uses puppeteer all the time.
 
 ### Personal Projects
 ```markdown
-# Header 1
+# [azifpl](https://github.com/azizfcb/azifpl) 
 ```
+A wrapper around the Fantasy Premier League Platform, implementing multiple functionnalities from getting gameweek score, to players prices, changing teams names, leagues history, set captain and more ⚽ ⚽
 ```markdown
-# Header 2
+# [GithubSlack-Automator](https://github.com/azizfcb/GithubSlack-Automator)
+This is a helpful nodejs script that combines Github & Slack APIs to offer you a command line tool to automate multiple Github & Slack administrative tasks
 ```
 ```markdown
 # Header 3
