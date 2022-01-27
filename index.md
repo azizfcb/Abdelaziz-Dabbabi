@@ -8,14 +8,14 @@ Abdelaziz, a Tunisian software guy who:
 - is in love with Linux, Docker, PHP & Nodejs ecosystem and uses puppeteer all the time.
 
 ### Personal Projects
+```markdown
 # azifpl 
-```markdown
+```
 A wrapper around the Fantasy Premier League Platform, implementing multiple functionnalities from getting gameweek score, to players prices, changing teams names, leagues history, set captain and more ⚽ ⚽. Check it out [azifpl github](https://github.com/azizfcb/azifpl) or [azifpl npm](https://www.npmjs.com/package/azifpl)
-```
-# GithubSlack-Automator
 ```markdown
-This is a helpful nodejs script that combines Github & Slack APIs to offer you a command line tool to automate multiple Github & Slack administrative tasks. Available [here](https://github.com/azizfcb/GithubSlack-Automator)
+# GithubSlack-Automator
 ```
+This is a helpful nodejs script that combines Github & Slack APIs to offer you a command line tool to automate multiple Github & Slack administrative tasks. Available [here](https://github.com/azizfcb/GithubSlack-Automator)
 ```markdown
 # Header 3
 ```
