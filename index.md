@@ -30,7 +30,7 @@ This is a chrome extension for flashscore users. It extends the website and offe
 ```
 This is a nodejs/puppeteer helper that bulk searches and takes automated screenshots of parcels being shipped by Tunisian Post ... Available [here](https://github.com/azizfcb/azicolis-checker)
 ### Collaboration
-Available to hire and open to collaborate with you on your projects throuh [upwork](https://www.upwork.com/freelancers/~01d23ae053d58877c2) 🤝
+Available to hire and open to collaborate with you on your projects through [upwork](https://www.upwork.com/freelancers/~01d23ae053d58877c2) 🤝
 
 ### Support or Contact
 Want to reach out? I'm all over the internet, shout out an e-mail at [dabebi.abdelaziz@gmail.com](mailto:dabebi.abdelaziz@gmail.com), ping me on [Facebook](https://www.facebook.com/fcb.simao), [Twitter](https://twitter.com/3azzouzana) or add me on [LinkedIn](https://www.linkedin.com/in/abdelazizdabebi/) 👋👋
