@@ -11,7 +11,7 @@ Abdelaziz, a Tunisian software guy who:
 ```markdown
 # azaytek 
 ```
-my personal blog (Hosted in Blogger and would be moved to ghost very soon), where I publish my thoughts 💡 regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)(https://www.npmjs.com/package/azifpl)
+my personal blog (Hosted in Blogger and would be moved to ghost very soon), where I publish my thoughts 💡 regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)
 ```markdown
 # azifpl 
 ```
@@ -30,5 +30,4 @@ This is a chrome extension for flashscore users. It extends the website and offe
 This is a nodejs/puppeteer helper that bulk search and takes automated screenshots of parcels being shipped by Tunisian Post ... Available [here](https://github.com/azizfcb/azicolis-checker)
 
 ### Support or Contact
-
-To reach out, I'm all over the intnet ? shout out an email at [dabebi.abdelaziz@gmail.com](mailto:dabebi.abdelaziz@gmail.com), ping me on [Facebook](https://www.facebook.com/fcb.simao) or [Twitter](https://twitter.com/3azzouzana) or add me on [LinkedIn](https://www.linkedin.com/in/abdelazizdabebi/)
+Want to reach out? I'm all over the internet, shout out an 📧 at [dabebi.abdelaziz@gmail.com](mailto:dabebi.abdelaziz@gmail.com), ping me on [Facebook](https://www.facebook.com/fcb.simao) or [Twitter](https://twitter.com/3azzouzana) or add me on [LinkedIn](https://www.linkedin.com/in/abdelazizdabebi/) 👋👋
