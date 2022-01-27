@@ -7,4 +7,4 @@ Hi 👋, it's Abdelaziz, a Tunisian geek who:
 - is open to collaborate with you on your project on [upwork]()
 
 ### Support or Contact
-Want to reach out? I'm all over the internet, shout out an 📧 at [dabebi.abdelaziz@gmail.com](mailto:dabebi.abdelaziz@gmail.com), ping me on [Facebook](https://www.facebook.com/fcb.simao), [Twitter](https://twitter.com/3azzouzana) or add me on [LinkedIn](https://www.linkedin.com/in/abdelazizdabebi/) 👋👋
+Want to reach out? I'm all over the internet, shout out an e-mail at [dabebi.abdelaziz@gmail.com](mailto:dabebi.abdelaziz@gmail.com), ping me on [Facebook](https://www.facebook.com/fcb.simao), [Twitter](https://twitter.com/3azzouzana) or add me on [LinkedIn](https://www.linkedin.com/in/abdelazizdabebi/) 👋👋
