@@ -1,11 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to my personal page
 
-You can use the [editor on GitHub](https://github.com/azizfcb/personal-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Abdelaziz, a Tunisian software guy who:
+- had been doing IT/WEB stuff for more than 6 years
+- worked in startups, large corporations, as freelancer and as employee.
+- is a fullstack Nodejs/PHP Linux developer who wears the DevOps so frequently that there's no space here to list all the techs, tools, framework, that he worked with.
+- is highly productive when served a big cup of coffee and let alone. 
+- is in love with Linux, Docker, PHP and Nodejs ecosystem and uses puppeteer all the time.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### Personal Projects
+```markdown
+# Header 1
+```
+```markdown
+# Header 2
+```
+```markdown
+# Header 3
+```
+```markdown
+# Header 4
+```
+```markdown
+# Header 5
+```
+```markdown
+# Header 6
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
