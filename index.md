@@ -1,30 +1,30 @@
 ## Welcome to my personal page
 
 Abdelaziz, a Tunisian guy who:
-- has been doing IT/WEB stuff for more than 6 years
-- worked in startups, large corporations, as freelancer and as employee.
-- is highly productive when served a big cup of coffee ☕ and let alone. 
-- is in ❤️ with Linux, Docker, PHP & Nodejs ecosystems and uses puppeteer all the time.
-- is TOP Rated Freelancer on [Upwork](https://www.upwork.com/freelancers/~01d23ae053d58877c2) 🔥🔥
-- is a fullstack Nodejs/PHP Linux developer who wears the DevOps hat so frequently that there's no space here to list all the techs, tools and frameworks that he worked with.
+- Has been doing IT/WEB stuff for more than 6 years
+- Worked in startups, large corporations, as a freelancer, and as an employee.
+- Is highly productive when served a big cup of coffee ☕ and let alone. 
+- Is in ❤️ with Linux, Docker, PHP & Nodejs ecosystems and uses puppeteer all the time.
+- Is TOP Rated Freelancer on [Upwork](https://www.upwork.com/freelancers/~01d23ae053d58877c2) 🔥🔥
+- Is a fullstack Nodejs/PHP Linux developer who wears the DevOps hat so frequently that there's no space here to list all the techs, tools and frameworks that he worked with.
 
 ### Personal Projects
 ```markdown
 # azaytek 
 ```
-my personal blog (Hosted in Blogger and will be moved to ghost very soon), where I publish my thoughts regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)
+My personal blog (Hosted in Blogger and will be moved to ghost very soon), where I publish my thoughts regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)
 ```markdown
 # azifpl 
 ```
-A wrapper around the Fantasy Premier League Platform, implementing multiple functionnalities from getting gameweek score, to players prices, changing teams names, leagues history, setting captain and more ⚽ ⚽. Check it out [azifpl github](https://github.com/azizfcb/azifpl) or [azifpl npm](https://www.npmjs.com/package/azifpl)
+A wrapper around the Fantasy Premier League Platform, implementing multiple functionalities from getting gameweek score, to players prices, changing teams names, leagues history, setting captain and more ⚽ ⚽. Check it out [azifpl github](https://github.com/azizfcb/azifpl) or [azifpl npm](https://www.npmjs.com/package/azifpl)
 ```markdown
 # GithubSlack-Automator
 ```
-This is a helpful nodejs script that combines Github & Slack APIs to offer you a command line tool to automate multiple Github & Slack administrative tasks. Available [here](https://github.com/azizfcb/GithubSlack-Automator)
+This is a helpful nodejs script that combines Github & Slack APIs to offer you a command-line tool to automate multiple Github & Slack administrative tasks. Available [here](https://github.com/azizfcb/GithubSlack-Automator)
 ```markdown
 # aziscore
 ```
-This is a chrome extension for flashscore users. It extends the website and offer multiple filtering criterias such as matching goals sum is bigger/lower than a threeshold, matching that the difference between goals scored is bigger/lower than threeshold, matching that the 1HT score is equal to 2HT score and many more ⚽ ... Available [here](https://github.com/azizfcb/aziscore)
+This is a chrome extension for flashscore users. It extends the website and offers multiple filtering criteria such as matching goals sum is bigger/lower than a threshold, matching that the difference between goals scored is bigger/lower than a threshold, matching that the 1HT score is equal to 2HT score and many more ⚽ ... Available [here](https://github.com/azizfcb/aziscore)
 ```markdown
 # azicolis-checker
 ```
