@@ -12,7 +12,7 @@ Abdelaziz, a Tunisian guy who:
 ```markdown
 # azaytek 
 ```
-My personal blog (self hosted ~~in Blogger and will be moved to as~~ ghost instance ~~very soon~~ ), where I publish my thoughts regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)
+My personal blog (self hosted ghost instance), where I publish my thoughts regarding the web and internet. You're very welcome [azaytek](https://www.azaytek.com/)
 ```markdown
 # azifpl 
 ```
