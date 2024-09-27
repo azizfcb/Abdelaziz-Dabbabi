@@ -1,5 +1,5 @@
 Hi 👋, it's Abdelaziz, a Tunisian geek who:
-- has been doing IT/WEB stuff for more than 6 years.
+- has been doing IT/WEB stuff for more than 9 years.
 - worked in startups, large corporations, as freelancer and as employee.
 - is highly productive when served a big cup of coffee ☕ and let alone. 
 - is in ❤️ with Linux, Docker, PHP & Nodejs ecosystems and uses puppeteer all the time.
